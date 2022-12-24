@@ -1,6 +1,6 @@
-<img src="https://www.mymax.ind.br/wp-content/uploads/2017/07/Topo-Site-Mymax-1.jpg">
+# Olá Mundo!!!👋
 
-### Hi 👋
+#### Sobre min: 
 
 Meu nome é Rian Gabriiel, sou um iniciante no mundo do programção, mas muito engajado nesta área!!!
 - 🔭 Neste momento estou cursando Sistemas de Informção pelo Instituto Federal do Norte de Minas Gerais - IFNMG - Campus Januária.
