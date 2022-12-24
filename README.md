@@ -1,4 +1,4 @@
-<img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mymax.ind.br%2Ftopo-site-mymax-2%2F&psig=AOvVaw21m1WgeUZFOhIAoikjS6IR&ust=1671973881128000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDbtqOqkvwCFQAAAAAdAAAAABAD)">
+<img src="https://www.sepromotora.com.br/wp-content/uploads/2020/06/Dicas-Financeiras2-Topo-site-900x338.jpg">
 
 ### Hi 👋
 
