@@ -9,7 +9,7 @@ Meu nome é Rian Gabriiel, sou um iniciante no mundo do programção, mas muito 
 
 ### O que você vai encontrar aqui:
 
-- 🏈 Bom ele esta começando agora então ainda não tem muita coias mas planejo colocar as minhas tentativas de resolver os exercicios das aulas de Estrutura de Dados da minha faculdade, todos resolvidos em linguagem C.
+- 🏈 Bom ele esta começando agora então ainda não tem muita coias mas criei um [Repositório]("https://github.com/RianAndrade/EstudosC") com as minhas tentativas de resolver os exercicios das aulas de Estrutura de Dados da minha faculdade, todos resolvidos em linguagem C. De uma olhada por favor.
 
 
 ### Estatus: 
