@@ -4,12 +4,12 @@
 
 Meu nome é Rian Gabriiel, sou um iniciante no mundo do programção, mas muito engajado nesta área!!!
 - 🔭 Neste momento estou cursando Sistemas de Informção pelo Instituto Federal do Norte de Minas Gerais - IFNMG - Campus Januária.
-- 🌱 Já estudei as linguagems de programação: Python, C, JavaScript. Mas me apronfundei somente em Python.
+- 🌱 Já estudei as linguagens de programação: Python, C, JavaScript. Mas me apronfundei somente em Python.
 - 🤝 Estou familiarizado com as ferramentas: Pycharm, VSCode, Geany, Bash, Git. 
 
 ### O que você vai encontrar aqui:
 
-- 🏈 Bom ele esta começando agora então ainda não tem muita coias mas criei um [Repositório]("https://github.com/RianAndrade/EstudosC") com as minhas tentativas de resolver os exercicios das aulas de Estrutura de Dados da minha faculdade, todos resolvidos em linguagem C. De uma olhada por favor.
+- 🏈 Bom ele esta começando agora então ainda não tem muita coias mas criei um [repositório](https://github.com/RianAndrade/EstudosC) com as minhas tentativas de resolver os exercicios das aulas de Estrutura de Dados da minha faculdade, todos resolvidos em linguagem C. De uma olhada por favor.
 
 
 ### Estatus: 
