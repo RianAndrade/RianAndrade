@@ -1,10 +1,11 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="[https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mymax.ind.br%2Ftopo-site-mymax-2%2F&psig=AOvVaw21m1WgeUZFOhIAoikjS6IR&ust=1671973881128000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDbtqOqkvwCFQAAAAAdAAAAABAD)">
 
 ### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+
+Eu sou um iniciante no mundo do programção, mas muito engajado nesta área
+- 🔭 Neste momento estou cursando Sistemas de Informção pelo Instituto Federal do Norte de Minas Gerais - IFNMG - Campus Januária.
+- 🌱 Já estudei as linguagems de programação: Python, C, JavaScript. Mas me apronfundei somente em Python.
+- 🤝 Estou familiarizado com as ferramentas: Pycharm, VSCode, Geany, Bash, Git. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
