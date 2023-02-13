@@ -27,4 +27,8 @@ Meu nome é Rian Gabriiel, sou um iniciante no mundo do programção, mas muito 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rian-andrade-52489425b/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" >](https://www.instagram.com/riangabriel_rg_hk/?next=%2F)
 
+ ***
+  
 ![Snake animation](https://github.com/RianAndrade/RianAndrade/blob/output/github-contribution-grid-snake.svg)
+
+ ***
