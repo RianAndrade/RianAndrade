@@ -14,10 +14,11 @@ Meu nome é Rian Gabriel, sou um iniciante no mundo do programção, mas muito e
 
 ### Estatus: 
 ***
+
 <div align="center">
-<a href="https://github.com/RianAndrade">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RianAndrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianAndrade&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/RianAndrade">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RianAndrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianAndrade&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ***
