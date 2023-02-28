@@ -11,8 +11,6 @@ Meu nome é Rian Gabriel, sou um iniciante no mundo do programção, mas muito e
           
           
           
-
-Python, C, JavaScript. Mas me apronfundei somente em Python.
 - 🤝 Estou familiarizado com as ferramentas: Pycharm, VSCode, Geany, Bash, Git. 
 
 ### O que você vai encontrar aqui:
