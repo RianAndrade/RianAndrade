@@ -21,7 +21,7 @@ Meu nome é Rian Gabriel, sou um iniciante no mundo do programção, mas muito e
 ***
 
 <div align="center">
-  <img src="https://github.com/RianAndrade/EstudosC/blob/main/imagens/octocat-1677547065887.png"  width="160" height="160"/>
+  <img src="https://github.com/RianAndrade/EstudosC/blob/main/imagens/octocat-1677547065887.png"  width="140" height="140"/>
   <a href="https://github.com/RianAndrade">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RianAndrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianAndrade&layout=compact&langs_count=7&theme=dracula"/>
@@ -38,7 +38,7 @@ Meu nome é Rian Gabriel, sou um iniciante no mundo do programção, mas muito e
   </div>
 
  ***
-<div align="center">
-![Snake animation](https://github.com/RianAndrade/RianAndrade/blob/output/github-contribution-grid-snake.svg)
-  </div>
+
+   ![Snake animation](https://github.com/RianAndrade/RianAndrade/blob/output/github-contribution-grid-snake.svg)
+
  ***
