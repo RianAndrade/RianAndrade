@@ -7,8 +7,7 @@ Meu nome é Rian Gabriel, sou um iniciante no mundo do programção, mas muito e
 - 🌱 Já estudei as linguagens de programação e marcação: 
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width="40" height="40"/>
-          
-          
+        
           
           
 - 🤝 Estou familiarizado com as ferramentas: Pycharm, VSCode, Geany, Bash, Git. 
@@ -22,9 +21,10 @@ Meu nome é Rian Gabriel, sou um iniciante no mundo do programção, mas muito e
 ***
 
 <div align="center">
+  <img src="https://github.com/RianAndrade/EstudosC/blob/main/imagens/octocat-1677547065887.png"  width="160" height="160"/>
   <a href="https://github.com/RianAndrade">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RianAndrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianAndrade&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RianAndrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianAndrade&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ***
@@ -38,7 +38,7 @@ Meu nome é Rian Gabriel, sou um iniciante no mundo do programção, mas muito e
   </div>
 
  ***
-  
+<div align="center">
 ![Snake animation](https://github.com/RianAndrade/RianAndrade/blob/output/github-contribution-grid-snake.svg)
-
+  </div>
  ***
