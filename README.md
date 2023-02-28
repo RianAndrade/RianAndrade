@@ -30,16 +30,22 @@ Meu nome é Rian Gabriel, sou um iniciante no mundo do programção, mas muito e
 ***
 
    ![Snake animation](https://github.com/RianAndrade/RianAndrade/blob/output/github-contribution-grid-snake.svg)
-
+### Redes Socais: 
 ***
-   #Redes Sociais:
    
-- Ficou com alguma dúvida? Acha que eu posso te ajudar: Não fique com vergonha, vamos trablhar juntos!!!
+- 👾 Eai ficou com alguma dúvida? Então não fique com vergonha, aqui estão minhas redes socais:
 <div align="center">
+<a href="https://www.instagram.com/riangabriel_rg_hk/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "riangabrieldev@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rian-andrade-52489425b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <img src="https://github.com/RianAndrade/EstudosC/blob/main/imagens/octocat-1677582851060.png"  width="140" height="140"/>
-<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />(https://twitter.com/USERNAME) 
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rian-andrade-52489425b/) 
-<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" >(https://www.instagram.com/riangabriel_rg_hk/?next=%2F)  
   </div>
 
- ***
+   
+***
+
+<div align="center">
+   
+# Vamos trablhar juntos!!!
+   
+</div>
