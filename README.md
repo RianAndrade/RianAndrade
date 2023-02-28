@@ -29,16 +29,17 @@ Meu nome é Rian Gabriel, sou um iniciante no mundo do programção, mas muito e
 
 ***
 
-<div align="center">
-  
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rian-andrade-52489425b/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" >](https://www.instagram.com/riangabriel_rg_hk/?next=%2F)
-  
-  </div>
-
- ***
-
    ![Snake animation](https://github.com/RianAndrade/RianAndrade/blob/output/github-contribution-grid-snake.svg)
+
+***
+   #Redes Sociais:
+   
+- Ficou com alguma dúvida? Acha que eu posso te ajudar: Não fique com vergonha, vamos trablhar juntos!!!
+<div align="center">
+<img src="https://github.com/RianAndrade/EstudosC/blob/main/imagens/octocat-1677582851060.png"  width="140" height="140"/>
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />(https://twitter.com/USERNAME) 
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rian-andrade-52489425b/) 
+<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" >(https://www.instagram.com/riangabriel_rg_hk/?next=%2F)  
+  </div>
 
  ***
