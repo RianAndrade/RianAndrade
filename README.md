@@ -53,7 +53,7 @@ Meu nome é Rian Gabriel, sou um iniciante no mundo do programção, mas muito e
    
 <div align="right">
    
-###  - Grace Hopper   <img src="https://github.com/RianAndrade/EstudosC/blob/main/imagens/octocat-1677582851060.png"  width="140" height="140"/>
+###  - Grace Hopper   <img src="https://github.com/RianAndrade/EstudosC/blob/main/imagens/octocat-1677582851060.png"  width="100" height="100"/>
  
    
 </div>   
