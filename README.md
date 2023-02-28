@@ -33,7 +33,7 @@ Meu nome é Rian Gabriel, sou um iniciante no mundo do programção, mas muito e
 ### Redes Socais: 
 ***
    
-- 👾 Eai ficou com alguma dúvida? Então não fique com vergonha, aqui estão minhas redes socais:
+ - 👾 Eai ficou com alguma dúvida? Então não fique com vergonha, aqui estão minhas redes socais:
 <div align="center">
 <a href="https://www.instagram.com/riangabriel_rg_hk/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "riangabrieldev@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -46,6 +46,19 @@ Meu nome é Rian Gabriel, sou um iniciante no mundo do programção, mas muito e
 
 <div align="center">
    
-# Vamos trablhar juntos!!!
+   
+   
+### "Um ser humano deve transformar informação em inteligência ou conhecimento. Tendemos a esquecer que nenhum computador jamais fará uma nova pergunta."
+
    
 </div>
+   
+<div align="right">
+   
+###  - Grace Hopper    
+   
+</div>   
+   
+***
+   
+   
