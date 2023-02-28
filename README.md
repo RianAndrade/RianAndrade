@@ -4,9 +4,13 @@
 
 Meu nome é Rian Gabriel, sou um iniciante no mundo do programção, mas muito engajado nesta área!!!
 - 🔭 Neste momento estou cursando Sistemas de Informção pelo Instituto Federal do Norte de Minas Gerais - IFNMG - Campus Januária.
-- 🌱 Já estudei as linguagens de programação: 
+- 🌱 Já estudei as linguagens de programação e marcação: 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width="40" height="40"/>
+          
+          
+          
+          
 
 Python, C, JavaScript. Mas me apronfundei somente em Python.
 - 🤝 Estou familiarizado com as ferramentas: Pycharm, VSCode, Geany, Bash, Git. 
