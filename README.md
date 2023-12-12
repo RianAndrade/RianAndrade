@@ -22,8 +22,6 @@ Meu nome é Rian Gabriel, sou um iniciante no mundo do programção, mas muito e
 </div>
 
 ***
-
-   ![Snake animation](https://github.com/RianAndrade/RianAndrade/blob/output/github-contribution-grid-snake.svg)
 ### Redes Socais: 
 ***
    
